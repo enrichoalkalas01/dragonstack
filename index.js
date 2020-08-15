@@ -1,3 +1,4 @@
+const express = require('express');
 const GenerationEngine = require('./engine');
 
 const engine = new GenerationEngine();
